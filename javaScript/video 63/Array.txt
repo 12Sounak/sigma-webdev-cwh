@@ -1,0 +1,4 @@
+In javaScript 
+Array : are collection of multiple datatypes.
+eg:
+var myArr = [1,"hello",[2,3]];
